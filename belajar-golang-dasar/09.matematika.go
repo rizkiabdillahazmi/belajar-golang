@@ -17,4 +17,14 @@ func main() {
 
 	i += 20
 	fmt.Println(i)
+
+	// Unary Operator
+	var j = 1
+	j++
+	j++
+	fmt.Println(j)
+
+	j--
+	j--
+	fmt.Println(j)
 }
